@@ -1,4 +1,5 @@
 <section class="home">
+    <h1>Acceuil</h1>
     <div class="container">
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet, quos ipsum unde quidem alias, et quis hic sequi laudantium amet ratione! Esse excepturi ea aliquam. Neque quibusdam laboriosam fugiat doloribus?</p>
     </div>

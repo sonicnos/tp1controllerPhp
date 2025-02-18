@@ -1,6 +1,7 @@
 <nav class="nav-bar">
-    <a href="/">Home</a>
-    <a href="/public/?p=aboutMe">About Me</a>
-    <a href="/public/?p=history">History</a>
-    <a href="/public/?p=contact">Contact</a>
+    
+    <a class=<?php echo $class; ?> href="/">Home</a>
+    <a class=<?php echo $class; ?> href="/?p=aboutMe">About Me</a>
+    <a class=<?php echo $class; ?> href="/?p=history">History</a>
+    <a class=<?php echo $class; ?> href="/?p=contact">Contact</a>
 </nav>
